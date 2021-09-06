@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+  form input {
+    width: 200px;
+  }
+  form input,
+  form button {
+    font-size: 1.5rem;
+  }
+  header {
+    font-size: 1rem;
+  }
+  .select {
+    margin: 0;
+  }
+  select {
+    width: 3rem;
+    padding: 0.9rem;
+  }
+}
